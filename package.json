@@ -1,0 +1,29 @@
+{
+  "name": "asa-gtw",
+  "version": "0.5.8",
+  "description": "Twitter streaming caching to gdb",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diazmazzaro/asa-gtw.git"
+  },
+  "keywords": [
+    "pdm",
+    "asa"
+  ],
+  "author": "Pablo Andres Diaz Mazzaro <diazmazzaro@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diazmazzaro/asa-gtw/issues"
+  },
+  "homepage": "https://github.com/diazmazzaro/asa-gtw#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "colour": "^0.7.1",
+    "mocha": "^3.2.0",
+    "should": "^11.2.1"
+  }
+}
